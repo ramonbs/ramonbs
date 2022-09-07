@@ -22,7 +22,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luster1212)](https://github.com/luster1212/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luster1212)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luster1212/luster1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
