@@ -1,8 +1,3 @@
-<h1>
-  Hi, I'm Ramon!
-  <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="40px">
-</h1>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
 </div>
@@ -19,6 +14,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luster1212&style=flat-square&color=blue" alt="view-counter-for-luster1212's-profile" />
 </div>
+
+<h1>
+  Hi, I'm Ramon!
+  <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="40px">
+</h1>
 
 
 About me:
