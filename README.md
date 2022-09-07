@@ -11,8 +11,9 @@
   </a>
 </div>
 </br>
-<img src="https://komarev.com/ghpvc/?username=luster1212&style=flat-square&color=blue" alt="view-counter-for-luster1212's-profile" align="center"/>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luster1212&style=flat-square&color=blue" alt="view-counter-for-luster1212's-profile" />
+</div>
 
 
 
