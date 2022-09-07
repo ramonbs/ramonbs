@@ -19,10 +19,17 @@
   Hi, I'm Ramon!
   <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="40px">
 </h1>
----
+
 
 ### :man_technologist: About Me :
   I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+ - :telescope: I’m study Software Engineer at Uninter Educacional SA since July-2022.
+
+- :seedling: I've started the Web Developer course made by Trybe in September-2022.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and enjoy some animes =).
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-silva-5b1077176/)
 
 
 
