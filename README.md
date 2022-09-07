@@ -1,6 +1,6 @@
 <h1>
   Hi, I'm Ramon!
-  <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="60px">
+  <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="40px">
 </h1>
 
 <div id="header" align="center">
@@ -21,7 +21,8 @@
 </div>
 
 
-
+About me:
+  I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 
 
