@@ -1,6 +1,6 @@
 <h1>
   Hi, I'm Ramon!
-  <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="30px>
+  <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="30px">
 </h1>
 
 <div id="header" align="center">
