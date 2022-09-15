@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
   I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
- - :telescope: I’m study Software Engineer at Uninter Educacional SA since July-2022.
+ - :telescope: I’m studying Software Engineer at Uninter Educacional SA since July-2022.
 
-- :seedling: I've started the Web Developer course made by Trybe in September-2022.
+- :seedling: I've started the Web Developer course made by Trybe.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and enjoy some animes =).
 
