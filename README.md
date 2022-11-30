@@ -22,7 +22,7 @@
 
 
 ### :man_technologist: About Me :
-  I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+  I am a Software Engineer and Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
  - :telescope: I’m studying Software Engineer at Uninter Educacional SA since July-2022.
 
 - :seedling: I've started the Web Developer course made by Trybe.
