@@ -55,5 +55,8 @@
 ---
 
 ### 🧠 Here are some of my stats 🔥:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luster1212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramonbs&show_icons=true&theme=transparent&locale=pt-br" alt="ramon-giovani" width=400/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonbs&layout=compact&show_icons=true&locale=pt-br&theme=transparent" alt="ramon-giovani" width=400 height=167/>
+</div>
 
