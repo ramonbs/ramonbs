@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=luster1212&style=flat-square&color=blue" alt="view-counter-for-luster1212's-profile" />
 </div>
 
-<h1>
+<h1 align="center">
   Hi, I'm Ramon!
   <img src= "https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="40px">
 </h1>
@@ -35,7 +35,7 @@
 ---
 
 ### :hammer_and_wrench: I'm working on :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
