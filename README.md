@@ -22,15 +22,15 @@
 
 
 ### :man_technologist: About Me :
-  I am a Software Engineer and Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
- - :telescope: I’m studying Software Engineer at Uninter Educacional SA since July-2022.
+  I am a passionate Web Developer and aspiring Software Engineer, with a focus on delivering cutting-edge front-end solutions. My expertise lies in advanced technologies such as React, Next, TypeScript, Tailwind, and SASS. I prioritize improving my knowledge in Design Patterns and clean coding practices, to ensure efficient and practical solutions for all projects.
 
-- :seedling: I've started the Web Developer course made by Trybe.
+  Aside from my professional pursuits, I have a deep passion for games, anime, and programming. In my free time, I contribute to volunteer work and care for my beloved pets. My long-term goal is to broaden my knowledge in back-end technologies, eventually becoming a full-stack developer.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and enjoy some animes =).
+ ### My Values
+  I highly value authenticity, positivity, creative thinking, and practical problem-solving. These values guide me in all aspects of my life, both personally and professionally, and I strive to apply them in every project I work on. I believe in the importance of contributing to the community and working on open-source projects, as I believe sharing knowledge and skills can make a difference in the world.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-silva-5b1077176/)
-
+ ### Contact Me
+  If you'd like to collaborate on a project or simply chat about shared interests, feel free to reach out to me at [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-silva-5b1077176/). I'm always excited to meet new people and learn new things!
 
 ---
 
