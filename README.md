@@ -30,7 +30,7 @@
   I highly value authenticity, positivity, creative thinking, and practical problem-solving. These values guide me in all aspects of my life, both personally and professionally, and I strive to apply them in every project I work on. I believe in the importance of contributing to the community and working on open-source projects, as I believe sharing knowledge and skills can make a difference in the world.
 
  ### Contact Me
-  If you'd like to collaborate on a project or simply chat about shared interests, feel free to reach out to me at [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-silva-5b1077176/). I'm always excited to meet new people and learn new things!
+  If you'd like to collaborate on a project or simply chat about shared interests, feel free to reach out to me at [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramongiovanibs/?locale=en_US). I'm always excited to meet new people and learn new things!
 
 ---
 
