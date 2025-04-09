@@ -22,7 +22,7 @@
 
 
 ### :man_technologist: About Me :
-  I am a passionate Web Developer and aspiring Software Engineer, with a focus on delivering cutting-edge front-end solutions. My expertise lies in advanced technologies such as React, Next, TypeScript, Tailwind, and SASS. I prioritize improving my knowledge in Design Patterns and clean coding practices, to ensure efficient and practical solutions for all projects.
+  I am a passionate Software Engineer, with a focus on delivering cutting-edge front-end solutions. My expertise lies in advanced technologies such as React, Next, TypeScript, Tailwind, and SASS. I prioritize improving my knowledge in Design Patterns and clean coding practices, to ensure efficient and practical solutions for all projects.
 
   Aside from my professional pursuits, I have a deep passion for games, anime, and programming. In my free time, I contribute to volunteer work and care for my beloved pets. My long-term goal is to broaden my knowledge in new technologies, eventually becoming a senior.
 
